@@ -1,0 +1,35 @@
+td {
+	padding: 15px;
+	padding-right: 30px;
+	text-align: center;
+}
+#discription > p {
+	display: inline;
+}
+.alkaliMetals {
+	background-color: #cccccc;
+	border: 1px solid #000;
+}
+.alkalineEarthMetals {
+	background-color:#99cc99;
+	border: 1px solid #000;
+}
+.transitionalMetals {
+	background-color: #ffff66;
+	border: 1px solid #000;
+}
+.otherMetals {
+	background-color: #ff99cc;
+	border: 1px solid #000;
+}
+.nonMetals {
+	background-color: #99cccc;
+	border: 1px solid #000;
+}
+.nobleGases {
+	background-color: #ffcc99;
+	border: 1px solid #000;
+}
+.fullNameOfSubstance {
+	background-color: aqua;
+}
